@@ -328,8 +328,8 @@ var Levels = {
     "16": new level(6000, [standartRoom, HoleRoom, standartJumpRoom]),
     "17": new level(6000, [standartRoom, MoreFoesRoom,ChallengeRoom]),
     "18": new level(6000, [standartRoom, MoreFoesRoom, PikeRoom]),
-    "19": new level(6000, [standartRoom, PikeRoom, standartJumpRoom,HardHoleRoom,FoesRoom,
-    "20": new level(6000, [standartRoom, PeaceRoom, standartJumpRoom, HardRoom, HardHoleRoom, ChallengeRoom, LuckRoom, PikeRoom]),
+    "19": new level(6000, [standartRoom, PikeRoom, standartJumpRoom,HardHoleRoom,FoesRoom]),
+    "20" : new level(6000, [standartRoom, PeaceRoom, standartJumpRoom, HardRoom, HardHoleRoom, ChallengeRoom, LuckRoom, PikeRoom]),
     more: new level(10000, [standartRoom,  standartJumpRoom, HardRoom, HardHoleRoom, ChallengeRoom, LuckRoom, PikeRoom])
 }
 
